@@ -2,14 +2,32 @@
 
 
 
-## 🛠️ My Skills
+## Hi there 👋
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+## Skills
+
+### Front End
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### Back End
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlserver,postgres" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,vim" />
 </p>
 
 
